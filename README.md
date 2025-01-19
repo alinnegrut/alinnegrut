@@ -7,9 +7,9 @@
  
 <h2>📄Certifications</h2>
 
-- [freeCodeCamp.org Information Security Certification] ([link](https://github.com/alinnegrut/link))
-- [freeCodeCamp.org Responsive Web Design] ([link](https://github.com/alinnegrut/link))
-- [Udemy – Javascript Essentials - 2019] ([link](https://github.com/alinnegrut/link))
+- [freeCodeCamp.org Information Security Certification]([link](https://github.com/alinnegrut/link))
+- [freeCodeCamp.org Responsive Web Design]([link](https://github.com/alinnegrut/link))
+- [Udemy – Javascript Essentials - 2019]([link](https://github.com/alinnegrut/link))
     
 <h2>📺 Popular YouTube Videos</h2>
 
