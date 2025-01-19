@@ -4,7 +4,7 @@
 
 - <b>Defensive cybersecurity</b>
   - [Checking an e-mail account security](https://github.com/alinnegrut/checkingemailsecurity)
-  - 
+    
 - <b>Ofensive cybersecurity</b>
   - [Checking an e-mail account security](https://github.com/alinnegrut/checkingemailsecurity)
  
