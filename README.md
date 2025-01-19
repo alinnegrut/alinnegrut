@@ -6,7 +6,7 @@
   - [Checking an e-mail account security](https://github.com/alinnegrut/checkingemailsecurity)
     
 - <b>Ofensive cybersecurity</b>
-  - [Proiect 1](https://github.com/alinnegrut/)
+  - [Project 1](https://github.com/alinnegrut/)
  
 <h2>📄Certifications</h2>
 
