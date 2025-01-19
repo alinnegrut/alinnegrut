@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Defensive cybersecurity</b>
-  - [Checking an e-mail account security](https://github.com/alinnegrut/link)
+  - [Checking an e-mail account security](https://github.com/alinnegrut/checkingemailsecurity)
  
 <h2>📄Certifications</h2>
 
