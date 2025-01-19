@@ -24,7 +24,7 @@
 
 [twitter]: https://twitter.com/alinnegrut
 [youtube]: https://www.youtube.com/c/alinnegrut
-[instagram]: https://www.instagram.com/alinnegrut/
+[instagram]: https://www.instagram.com/negrut_alin/
 [linkedin]: https://linkedin.com/in/alinnegrut
 
 <!--
