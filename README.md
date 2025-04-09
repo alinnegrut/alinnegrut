@@ -14,10 +14,6 @@
 - [freeCodeCamp.org Responsive Web Design](https://github.com/alinnegrut/link)
 - [Udemy – Javascript Essentials](https://github.com/alinnegrut/link)
     
-<h2>📺 Popular YouTube Videos</h2>
-
-- [work in progress](https://www.youtube.com/)
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="AlinNegrut | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
