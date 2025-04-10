@@ -11,7 +11,6 @@
  
 <h2>📄Certifications</h2>
 
-- [freeCodeCamp.org Information Security Certification](https://github.com/alinnegrut/link)
 - [freeCodeCamp.org Responsive Web Design](https://www.freecodecamp.org/certification/negrut112/responsive-web-design)
 - [Udemy – Javascript Essentials](https://github.com/alinnegrut/link)
     
