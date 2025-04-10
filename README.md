@@ -1,6 +1,6 @@
-<h1>Hi, I'm Alin! 
+<h1>Hi, I'm Alin!</h1> 
 
-With a background in industrial engineering and a proven track record in precision-driven roles like CNC machining and real estate appraisal, I’ve built my career on accuracy, troubleshooting, and compliance—skills that naturally align with cybersecurity.
+<p>With a background in industrial engineering and a proven track record in precision-driven roles like CNC machining and real estate appraisal, I’ve built my career on accuracy, troubleshooting, and compliance—skills that naturally align with cybersecurity.
 
 Currently retraining through intensive programs in cybersecurity, Python, and systems administration, I'm diving deep into areas like digital asset protection, incident monitoring, and SIEM tools. I've already applied my knowledge in hands-on projects, such as assessing email account vulnerabilities, managing cybersecurity systems in virtualized environments and many more.
 
