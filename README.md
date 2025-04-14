@@ -1,9 +1,8 @@
 <h1>Hi, I'm Alin!</h1> 
 <h4>Aspiring Cybersecurity Analyst | Detail-Oriented | Problem-Solver | Tech-Savvy Career Changer | Passionate About Threat Detection & Risk Mitigation | Learning Python for Automation & Scripting</h2>
 
-<p>•	With a background in industrial engineering and a proven track record in precision-driven roles like CNC machining and real estate appraisal, I’ve built my career on accuracy, troubleshooting, and compliance—skills that naturally align with cybersecurity.</br>
-
-•	Currently retraining through intensive programs in cybersecurity, Python, and systems administration, I’m focused on digital asset protection, incident monitoring, and SIEM tools. I’ve applied my skills in hands-on projects, including email vulnerability assessments and managing cybersecurity systems in virtual environments. Driven by curiosity, I see cybersecurity as a constantly evolving puzzle—approaching it with a methodical and analytical mindset. I'm passionate about building secure digital spaces and eager to join a team that values attention to detail and proactive thinking.
+<p>• With a background in industrial engineering and a proven track record in precision-focused roles like CNC machining and real estate appraisal, I've built my career on accuracy, troubleshooting, and compliance—skills that align seamlessly with cybersecurity.</br>
+•	Currently retraining through intensive programs in cybersecurity, Python, and systems administration, I’m focused on digital asset protection, incident response, and SIEM tools. I've applied my knowledge through hands-on projects such as email vulnerability assessments and managing cybersecurity systems in virtualized environments. Driven by curiosity, I approach cybersecurity as a constantly evolving puzzle—bringing a methodical, analytical mindset to every challenge. I’m passionate about building secure digital spaces and eager to contribute to a team that values precision, proactivity, and continuous learning.
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
