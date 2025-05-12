@@ -10,7 +10,7 @@
   - [Checking the security of an e-mail account](https://github.com/alinnegrut/checkingemailsecurity)
   - [Cybersecurity systems administration](https://github.com/alinnegrut/Cybersecurity-systems-administration)
   - [Encryption_project](https://github.com/alinnegrut/Encryption_Project)
-  - [AWS_Lab]([https://github.com/alinnegrut/Encryption_Project](https://github.com/alinnegrut/AWS_Lab)
+  - [AWS_Lab](https://github.com/alinnegrut/AWS_Lab)
     
 - <b>Ofensive cybersecurity</b>
   - [Project 1](https://github.com/alinnegrut/)
